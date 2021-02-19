@@ -4,8 +4,6 @@ let minus = document.querySelector('.wrapper__minus');
 let count = 0;
 plus.addEventListener('click', () => {
     counter.textContent = ++count;
-
-
 });
 
 minus.addEventListener('click', () => {
