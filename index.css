@@ -5,11 +5,12 @@
 }
 body{
     background-color: rgba(221, 27, 5, 0.981);
+    font-family: Impact, sans-serif;
 }
 
 .wrapper__title{
     font-size: 72px;
-    letter-spacing: -10px;
+    letter-spacing: 0px;
     
     margin-bottom: 100px;
 }
